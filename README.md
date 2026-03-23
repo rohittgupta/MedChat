@@ -186,15 +186,6 @@ See `requirements.txt` for complete dependencies:
 - langchain-groq
 - langchain-community==0.3.26
 
-## Development
-
-### Project Author
-- **Name**: Boktiar Ahmed Bappy
-- **Email**: entbappy73@gmail.com
-
-### Version
-- Current Version: 0.1.0
-
 ## Notes
 
 - Ensure your medical documents are properly formatted before indexing
@@ -202,10 +193,8 @@ See `requirements.txt` for complete dependencies:
 - Responses are generated based on the most relevant retrieved documents
 - Regular updates to the document index improve response quality
 
-## License
-
-This project is provided as-is for educational and medical information purposes.
-
 ## Disclaimer
 
 ⚠️ **Important**: This chatbot provides general medical information and should not be used as a substitute for professional medical advice. Always consult with qualified healthcare professionals for medical diagnosis, treatment, and advice.
+
+                                                         Made with ❤️ by Rohit Kumar Gupta
