@@ -196,5 +196,3 @@ See `requirements.txt` for complete dependencies:
 ## Disclaimer
 
 ⚠️ **Important**: This chatbot provides general medical information and should not be used as a substitute for professional medical advice. Always consult with qualified healthcare professionals for medical diagnosis, treatment, and advice.
-
-                                                         Made with ❤️ by Rohit Kumar Gupta
